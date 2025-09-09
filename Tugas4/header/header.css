@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(90deg, #fbc2eb 0%, #a6c1ee 100%);
+}
+
+img {
+    width: 100%;
+    max-height: 180px;
+    object-fit: cover;
+    display: block;
+    border-radius: 0 0 18px 18px;
+    box-shadow: 0 4px 16px rgba(166,193,238,0.15);
+    border-bottom: 4px solid #a6c1ee;
+}

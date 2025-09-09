@@ -1,0 +1,29 @@
+body {
+    font-family: 'Segoe UI', Arial, sans-serif;
+    background: #fda085;
+    margin: 0;
+    padding: 30px;
+    box-sizing: border-box;
+}
+
+.profile-card {
+    background: #fff;
+    border-radius: 12px;
+    box-shadow: 0 6px 24px rgba(253,160,133,0.15);
+    max-width: 400px;
+    margin: 40px auto;
+    padding: 32px 24px;
+    text-align: center;
+    border: 2px solid #ffd4c8;
+}
+
+.profile-card h2 {
+    color: #fda085;
+    margin-bottom: 16px;
+}
+
+.profile-card p {
+    color: #333;
+    margin-bottom: 12px;
+    font-size: 1.05em;
+}
